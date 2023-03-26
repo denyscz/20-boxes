@@ -1,0 +1,36 @@
+#first {
+    width: 800px;
+    height: 100px;
+    background: white;
+    display: flex;
+    padding: 0px 0px 0px;
+    border: 2px solid #5383ec;
+    align-items: center;
+  }
+
+  #second {
+    width: 800px;
+    height: 100px;
+    background: #ed6d51;
+    display: flex;
+    padding: 0px 0px 0px;
+    border: 2px solid #5383ec;
+    align-items: center;
+  }
+
+  .blue {
+    width: 50px;
+    height: 50px;
+    background: #5383ec;
+    display: flex;
+    list-style-type: none;
+    margin: 15px;
+  }
+
+  .purple {
+    width: 50px;
+    height: 50px;
+    background: #5e3775;
+    list-style-type: none;
+    margin: 15px;
+  }
